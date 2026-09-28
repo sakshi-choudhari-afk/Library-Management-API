@@ -48,11 +48,3 @@ Library-Management-API/
 ├── frontend/
 ├── requirements.txt
 └── README.md
-
-
-## How to Run the Project
-
-### 1. Install Required Packages
-
-```bash
-pip install fastapi uvicorn sqlalchemy pydantic streamlit
